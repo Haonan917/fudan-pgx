@@ -1,0 +1,627 @@
+[
+  {
+    "peopleID": "/",
+    "role": "Research Faculty",
+    "name": "Leming Shi",
+    "title": "Professor",
+    "email": "lemingshi@fudan.edu.cn",
+    "institution": "Fudan University",
+    "college": "Human Phenome Institue & School of Life Sciences",
+    "avatar": "LemingShi.webp",
+    "intro": "Dr. Leming Shi is a professor at the School of Life Sciences and Shanghai Cancer Center of Fudan \nUniversity. Dr. Shi's research aims to improve the success rate of drug discovery and development \nand to promote precision medicine by generating, analyzing and integrating high-quality multi-omics\ndata. Dr. Shi conceived and led the MicroArray and Sequencing Quality Control (MAQC/SEQC) \nconsortia. These efforts led to the development of multiple FDA guidance documents and the \nlaunch of the International MAQC Society (www.maqcsociety.org) to enhance the reproducibility of \nhigh-throughput technologies. Dr. Shi was a co-founder of Chipscreen Biosciences where he \nco-developed a chemogenomics-based drug discovery platform, leading to the marketing approvals\nof one novel HDAC inhibitor (Chidamide) for treating cancers and one novel PPARα/γ/δ pan-agonist\n(Chiglitazar) for treating type 2 diabetes. Dr. Shi and his collaborators developed a multi-omics-based\napproach for molecular subtyping and precision treatment of breast cancers (Cancer \nCell 2019, Nature Genetics 2023, Nature Cancer 2024). Dr. Shi's team recently developed the first \nsuite of certified multi-omics reference materials (chinese-quartet.org), facilitating the development\nof a ratio-based multi-omics quantification approach that is inherently more resistant to \nbatch effects (Nature Biotechnology 2024a,b). Dr. Shi has published over 200 papers and (co-)led \nthe development of four ISO and CLSI standards and guidance on genomics.",
+    "interests": [
+      "Pharmacogenomics",
+      "Bioinformatics",
+      "Cheminformatics",
+      "Precision medicine"
+    ],
+    "educations": [],
+    "works": []
+  },
+  {
+    "peopleID": "/",
+    "role": "Research Faculty",
+    "name": "Yuanting Zheng",
+    "title": "Associate Professor",
+    "email": "zhengyuanting@fudan.edu.cn",
+    "institution": "Fudan University",
+    "college": "Human Phenome Institue & School of Life Sciences",
+    "avatar": "YuantingZheng.webp",
+    "intro": "Dr. Yuanting Zheng obtained her PhD in pharmacology from China Pharmaceutical University and is an associate professor at the School of Life Sciences and Human Phenome Institute of Fudan University. She is the president of the China chapter of the international Massive Analysis and Quality Control (MAQC) Society. Her research focuses on reference materials for multiomics quality control, aiming to translate multiomics technologies into clinical companion diagnosis and for empowering the discovery of novel drug targets and therapeutics.",
+    "interests": [
+      "Multiomics reference materials",
+      "Pharmacogenomics"
+    ],
+    "educations": [],
+    "works": []
+  },
+  {
+    "peopleID": "37190",
+    "role": "Research Faculty",
+    "name": "Ying Yu",
+    "title": "Associate Research Fellow",
+    "email": "ying_yu@fudan.edu.cn",
+    "institution": "Fudan University",
+    "college": "Human Phenome Institue",
+    "avatar": "YingYu.webp",
+    "intro": "Dr. Ying Yu Engaged in bioinformatics, big data, and precision medicine research, with many years of experience in tumor genomics and pharmacogenomics research. Proficient in big data mining and software development, and as a core member, developed the PreMedKB precision medicine knowledge base system for interpreting clinical personal genome data. Possesses a strong biological background, is proactive, and has a spirit of teamwork, communication skills, and research writing experience. Principal investigator of one National Natural Science Foundation of China Youth Fund project and involved in six national-level research projects, including the National Key R&D Program of China Precision Medicine Initiative and the National Natural Science Foundation of China Key International Cooperation Project. Published 22 related SCI academic papers in journals such as Nature Communications, Genome Biology, and Nature Biotechnology, with over 600 SCI citations.",
+    "interests": [
+      "Pharmacogenomics",
+      "Precision medicine",
+      "Bioinformatics."
+    ],
+    "educations": [],
+    "works": []
+  },
+  {
+    "peopleID": "/",
+    "role": "Research Faculty",
+    "name": "Wanwan Hou",
+    "title": "Engineer",
+    "email": "nan",
+    "institution": "Fudan University",
+    "college": "Human Phenome Institue",
+    "avatar": "WanwanHou.webp",
+    "intro": "",
+    "interests": [],
+    "educations": [],
+    "works": []
+  },
+  {
+    "peopleID": "R2294",
+    "role": "Research Faculty",
+    "name": "Yaqing Liu",
+    "title": "Research Assistant",
+    "email": "nan",
+    "institution": "Fudan University",
+    "college": "Human Phenome Institue",
+    "avatar": "YaqingLiu.webp",
+    "intro": "I received my Bachelor of Bioinformatics from Tongji University (2015-2019) and my Master of Biotechnology Engineering from Fudan University (2019-2022) under the supervision of Prof. Leming Shi. My primary research interests focus on quality control and standardization in multi-omics studies, dedicated to advancing innovative research discoveries in omics technologies and ensuring their high-quality translation and application. As the (co-)first author, I have published eight peer-reviewed papers in prestigious journals such as Nature Biotechnology (2 papers), Nature Communications, and Genome Biology. Additionally, I have actively participated in several national research projects and contributed to drafting international, national and industry standards.",
+    "interests": [
+      "Quality control",
+      "Large-cohort studies",
+      "Precision oncology",
+      "Transcriptomics",
+      "Bioinformatics"
+    ],
+    "educations": [
+      {
+        "degree": "MSs in Biotechnology Engineering",
+        "school": "Fudan University",
+        "duration": "2019-2022"
+      },
+      {
+        "degree": "BSs in Bioinformatics",
+        "school": "Tongji University",
+        "duration": "2015-2019"
+      }
+    ],
+    "works": [
+      {
+        "position": "Research Assistant",
+        "institution": "School of Life Sciences",
+        "duration": "Fudan University"
+      },
+      {
+        "position": "Secretary-General",
+        "institution": "China chapter of the international Massive Analysis and Quality Control (MAQC) Society",
+        "duration": "2022.12-present"
+      },
+      {
+        "position": "Medical Analyst Intern",
+        "institution": "Development & Research Center GF Securities",
+        "duration": "2018.12-2019.04"
+      },
+      {
+        "position": "Investor Relation & Growth Capital Intern",
+        "institution": "China Renaissance",
+        "duration": "2018.04-2018.10"
+      }
+    ]
+  },
+  {
+    "peopleID": "L2055",
+    "role": "Research Faculty",
+    "name": "Chao Zhang",
+    "title": "Research Assistant",
+    "email": "nan",
+    "institution": "Fudan University",
+    "college": "Human Phenome Institue",
+    "avatar": "ChaoZhang.webp",
+    "intro": "My primary responsibilities include transcriptome analysis, project data management, data quality control, and the development of standard pipelines.",
+    "interests": [
+      "Quality control",
+      "Transcriptomics"
+    ],
+    "educations": [
+      {
+        "degree": "BSc in Agronomy",
+        "school": "Northwest A&F University",
+        "duration": "2017-2021"
+      }
+    ],
+    "works": [
+      {
+        "position": "Research Assistant",
+        "institution": "Human Phenome Institue",
+        "duration": "Fudan University"
+      }
+    ]
+  },
+  {
+    "peopleID": "nan",
+    "role": "PhD Student",
+    "name": "Qingwang Chen",
+    "title": "PhD Candidate (2020-)",
+    "email": "qwchen20@fudan.edu.cn",
+    "institution": "Fudan University",
+    "college": "School of Life Sciences",
+    "avatar": "QingwangChen.webp",
+    "intro": "I am passionate about leveraging cutting-edge bioinformatics tools to analyze large-scale transcriptomic data and explore its applications in disease research. ",
+    "interests": [
+      "Transcriptomics",
+      "Bioinformatics",
+      "Disease research",
+      "Aging"
+    ],
+    "educations": [
+      {
+        "degree": "BSc in biotechnology",
+        "school": "Hunan Agricultural University",
+        "duration": "2016-2020"
+      }
+    ],
+    "works": []
+  },
+  {
+    "peopleID": "20110700149",
+    "role": "PhD Student",
+    "name": "Ruolan Zhang",
+    "title": "PhD Candidate (2020-)",
+    "email": "Ruolan_zhang_biole@163.com ",
+    "institution": "Fudan University",
+    "college": "Human Phenome Institue",
+    "avatar": "RuolanZhang.webp",
+    "intro": "Precision typing and individualized treatment of glioma for clinical transformation and application.",
+    "interests": [
+      "Glioma",
+      "Precision Medicine",
+      "Translational Meducine",
+      "Tumor Treatment",
+      "Chemotherapy"
+    ],
+    "educations": [
+      {
+        "degree": "Bioinformatics",
+        "school": "Fujian Medical University",
+        "duration": "2016-2020"
+      }
+    ],
+    "works": [
+      {
+        "position": "Publishing editor",
+        "institution": "Journal of Phenomics",
+        "duration": "2023-2024"
+      }
+    ]
+  },
+  {
+    "peopleID": "20110700029",
+    "role": "PhD Student",
+    "name": "Zehui Cao",
+    "title": "PhD Candidate (2020-)",
+    "email": "zhcao20@fudan.edu.cn",
+    "institution": "Fudan University",
+    "college": "School of Life Sciences",
+    "avatar": "ZehuiCao.webp",
+    "intro": "My research interests focus on multi-omics and pharmacogenomic studies in metabolic diseases aiming to reveal disease mechanism and realize precision medicine.",
+    "interests": [
+      "Metabolic diseases",
+      "Multi-omics",
+      "Pharmacogenomics"
+    ],
+    "educations": [
+      {
+        "degree": "BSc in Pharmacology",
+        "school": "China Pharmaceutical University",
+        "duration": "2016-2020"
+      }
+    ],
+    "works": [
+      {
+        "position": "Publishing editor",
+        "institution": "Journal of Phenomics",
+        "duration": "2021-"
+      }
+    ]
+  },
+  {
+    "peopleID": "21112030002",
+    "role": "PhD Student",
+    "name": "Qiaochu Chen",
+    "title": "PhD Candidate (2021-)",
+    "email": "chenqc21@m.fudan.edu.cn",
+    "institution": "Fudan University",
+    "college": "Human Phenome Institue",
+    "avatar": "QiaochuChen.webp",
+    "intro": "I have been studying on batch effect diagnosis and correction of proteomic and metabolomic data to improve their quality. Using universal Quartet reference materials, a ratio-based method was validated to be effective in correcting batch effect in multi-omics data. Currently, I am carrying on the comparative study on that at which data level (peptide/protein) to correct batch effect in MS-based proteomics. For my bachelor’s dissertation, I have developed protqc, an R\npackage for the performance assessment of proteomics data based on Quartet reference materials, which is now available at Quartet data portal (https://chinese-quartet.org/#/dashboard). ",
+    "interests": [
+      "Quality control",
+      "Proteomics",
+      "Metabolomics"
+    ],
+    "educations": [
+      {
+        "degree": "BSc in Biomedical Sciences",
+        "school": "Shanghai Jiao Tong University",
+        "duration": "2017-2021"
+      }
+    ],
+    "works": [
+      {
+        "position": "Internship",
+        "institution": "Shanghai Children's Medical Center",
+        "duration": "2018-2020"
+      }
+    ]
+  },
+  {
+    "peopleID": "22110700033",
+    "role": "PhD Student",
+    "name": "He Jiang",
+    "title": "PhD Candidate (2022-)",
+    "email": "hemione97@aliyun.com",
+    "institution": "Fudan University",
+    "college": "School of Life Sciences",
+    "avatar": "HeJiang.webp",
+    "intro": "I focus on using multi-omics to discover alterations relevant to cancer development,  predictive biomarkers and therapeutic targets. I hope to translate novel findings from cancer research into clinical practice, in order to improve clinical management of patients.",
+    "interests": [
+      "Oncology",
+      "Lung cancer",
+      "Translational medicine",
+      "Immunity"
+    ],
+    "educations": [
+      {
+        "degree": "BSc in Pharmaceutical Engineering",
+        "school": "Tianjin University of Science and Technology",
+        "duration": "2015-2019"
+      },
+      {
+        "degree": "MSc in Biomedical and Biochemical Science",
+        "school": "Chinese University of Hong Kong",
+        "duration": "2021-2022"
+      }
+    ],
+    "works": [
+      {
+        "position": "Research Assistant",
+        "institution": "PGx",
+        "duration": "2019-2021"
+      }
+    ]
+  },
+  {
+    "peopleID": "22110700133",
+    "role": "PhD Student",
+    "name": "Yuanbang Mai",
+    "title": "PhD Candidate (2022-)",
+    "email": "22110700133@m.fudan.edu.cn",
+    "institution": "Fudan University",
+    "college": "School of Life Sciences",
+    "avatar": "YuanbangMai.webp",
+    "intro": "Data science enthusiast. Experienced Research Assistant with a demonstrated history of working in biostatistics. Solid background in statistics. Master of Science degree in Hong Kong Baptist University, focused on Data Mining.  ",
+    "interests": [
+      "Biostatistisc,Data Mining, Data Intergration, Quality control"
+    ],
+    "educations": [
+      {
+        "degree": "BSc in Statistics",
+        "school": "Hong Kong Baptist University Beijing Normal University United International College",
+        "duration": "2010-2014"
+      },
+      {
+        "degree": "MSc in Operation Research and Business Statistics",
+        "school": "HongKong Baptist University",
+        "duration": "2014-2015"
+      }
+    ],
+    "works": [
+      {
+        "position": "Research Assistant",
+        "institution": "Guangzhou Institutes of Biomedicine and Health Chinese Academy of Sciences",
+        "duration": "2015-2021"
+      },
+      {
+        "position": "Engineer",
+        "institution": "Greater Bay Area Institute of Precision Medicine",
+        "duration": "2021-2022"
+      }
+    ]
+  },
+  {
+    "peopleID": "22210700111",
+    "role": "PhD Student",
+    "name": "Xiaorou Guo",
+    "title": "PhD Candidate (2022-)",
+    "email": "guoxr22@m.fudan.edu.cn",
+    "institution": "Fudan University",
+    "college": "School of Life Sciences",
+    "avatar": "XiaorouGuo.webp",
+    "intro": "",
+    "interests": [
+      "Epigenetics",
+      "Transcriptomics",
+      "Quality control"
+    ],
+    "educations": [
+      {
+        "degree": "BSc in biotechnology",
+        "school": "Beijing University Of Technology",
+        "duration": "2018-2022"
+      }
+    ],
+    "works": []
+  },
+  {
+    "peopleID": "23110700029",
+    "role": "PhD Student",
+    "name": "Jiaqi Li",
+    "title": "PhD Candidate (2023-)",
+    "email": "23110700029@m.fudan.edu.cn",
+    "institution": "Fudan University",
+    "college": "School of Life Sciences",
+    "avatar": "JiaqiLi.webp",
+    "intro": "Driven by a deep enthusiasm for pharmaceutical R&D and equipped with an interdisciplinary background, my focus lies in validating potential drug targets identified through multi-omics analysis by constructing cellular and murine models. My work aims to improve therapeutic options for patients.",
+    "interests": [
+      "Omics-driven target discovery and validation",
+      "Bioinformatics",
+      "Precision medicine"
+    ],
+    "educations": [
+      {
+        "degree": "BSc in Materials Science",
+        "school": "Fudan University",
+        "duration": "2016-2020"
+      },
+      {
+        "degree": "MSc in Macromolecular Science",
+        "school": "Fudan University",
+        "duration": "2020-2023"
+      }
+    ],
+    "works": []
+  },
+  {
+    "peopleID": "23110700129",
+    "role": "PhD Student",
+    "name": "Shumeng Duan",
+    "title": "PhD Candidate (2023-)",
+    "email": "dsm@fudan.edu.cn",
+    "institution": "Fudan University",
+    "college": "School of Life Sciences",
+    "avatar": "ShumengDuan.webp",
+    "intro": "A bioinformatics enthusiast dedicated to improving the quality of multi-omics data through the use of standard substances.",
+    "interests": [
+      "Genomics",
+      "Transcriptomics",
+      "Quality control",
+      "TNBC"
+    ],
+    "educations": [
+      {
+        "degree": "BSc in Bioengineering",
+        "school": "Southwest University",
+        "duration": "2014-2018"
+      },
+      {
+        "degree": "MSc in Zoology",
+        "school": "Southwest University",
+        "duration": "2018-2021"
+      }
+    ],
+    "works": [
+      {
+        "position": "Bioinformatics Engineer",
+        "institution": "PTM BioLab Inc.",
+        "duration": "2021-2023"
+      }
+    ]
+  },
+  {
+    "peopleID": "24110700140",
+    "role": "PhD Student",
+    "name": "Yuyang Zhu",
+    "title": "PhD Candidate (2024-)",
+    "email": "nan",
+    "institution": "Fudan University",
+    "college": "School of Life Sciences",
+    "avatar": "YuyangZhu.webp",
+    "intro": "Interested in the discovery and development of innovative drugs，with the help of reliable multi-omics data.",
+    "interests": [
+      "Metabolic Diseases",
+      "Multi-omics"
+    ],
+    "educations": [
+      {
+        "degree": "BSc in Parmacy",
+        "school": "China Pharmaceutical University",
+        "duration": "2020-2024"
+      }
+    ],
+    "works": []
+  },
+  {
+    "peopleID": "/",
+    "role": "PhD Student",
+    "name": "Yanming Xie",
+    "title": "PhD Candidate (2024-)",
+    "email": "markx945@163.com",
+    "institution": "Fudan University",
+    "college": "Human Phenome Institue",
+    "avatar": "YanmingXie.webp",
+    "intro": "My research ambition is to improve data quality in the field of sequencing and explore best practices from materials to analytical methods. I hope my work will help generate more high-quality and meaningful data in the field, supporting clinical practice.",
+    "interests": [
+      "Genomics",
+      "Quality control"
+    ],
+    "educations": [
+      {
+        "degree": "BSc in Bioengineering",
+        "school": "Tianjin University",
+        "duration": "2016-2020"
+      },
+      {
+        "degree": "MSc in Genomics and Bioinfomatics",
+        "school": "Chinese University of HongKong",
+        "duration": "2021-2022"
+      }
+    ],
+    "works": [
+      {
+        "position": "Assistant Researcher in Bioinformatics",
+        "institution": "MGI",
+        "duration": "2022-2023"
+      }
+    ]
+  },
+  {
+    "peopleID": "/",
+    "role": "PhD Student",
+    "name": "Zhiyin An",
+    "title": "PhD Candidate (2024-)",
+    "email": "a13020167089@gmail.com",
+    "institution": "Fudan University",
+    "college": "School of Life Sciences",
+    "avatar": "ZhiyinAn.webp",
+    "intro": "With a medical and pharmaceutical background, I am interested in the translation of available biological data into clinical drugs to improve the patient outcomes. Cancer is a kind of heterogenous disease with high mortalities and neoantigen vaccines were proved effective for the treatment of cancers. I aim to find potential neoantigen targets to guide the design of therapeutic cancer vaccines.",
+    "interests": [
+      "Cancer immunotherapy",
+      "Neoantigen",
+      "mRNA vaccine",
+      "Precision medicine"
+    ],
+    "educations": [
+      {
+        "degree": "BSc in Medical Laboratory Technology",
+        "school": "Shanghai Jiao Tong University",
+        "duration": "2016-2020"
+      },
+      {
+        "degree": "MA.Sc in Basic Medicine",
+        "school": "Shanghai Jiao Tong University",
+        "duration": "2020-2023"
+      }
+    ],
+    "works": [
+      {
+        "position": "Intern",
+        "institution": "clinical laboratory of Zhongshan Hospital",
+        "duration": "2019"
+      },
+      {
+        "position": "Researcher",
+        "institution": "Shanghai RNACure Biopharma .Inc.",
+        "duration": "2023-2024"
+      }
+    ]
+  },
+  {
+    "peopleID": "22260700030",
+    "role": "Master Student",
+    "name": "Gui Yao",
+    "title": "MSc Candidate (2022-)",
+    "email": "22260700030@m.fudan.edu.cn",
+    "institution": "Fudan University",
+    "college": "School of Life Sciences",
+    "avatar": "GuiYao.webp",
+    "intro": "I am deeply passionate about learning and committed to making every moment count by acquiring knowledge. My keen interest in data analysis drives my enthusiasm for uncovering insights and patterns. I am particularly drawn to the field of precision medicine, where I see the potential to revolutionize healthcare through personalized approaches. My dedication to continuous learning fuels my ambition to contribute meaningfully in this dynamic intersection of data and healthcare.",
+    "interests": [
+      "Data analysis",
+      "Precision medicine"
+    ],
+    "educations": [
+      {
+        "degree": "BSc in Biotechnology",
+        "school": "Huazhong University of Science and Technology",
+        "duration": "2007-2011"
+      }
+    ],
+    "works": [
+      {
+        "position": "Associate Scientist",
+        "institution": "Chempartner",
+        "duration": "2011-2018"
+      },
+      {
+        "position": "Scientist",
+        "institution": "Amgen",
+        "duration": "2018-present"
+      }
+    ]
+  },
+  {
+    "peopleID": "23210700119",
+    "role": "Master Student",
+    "name": "Haonan Chen",
+    "title": "MSc Candidate (2023-)",
+    "email": "23210700119@fudan.m.edu.cn",
+    "institution": "Fudan University",
+    "college": "School of Life Sciences",
+    "avatar": "HaonanChen.webp",
+    "intro": "My primary research interests lie in the development of AI-based bioinformatics algorithms for multi-omics data and their application to precision medicine. Currently, I am focused on investigating the predictability of diabetes therapeutic outcomes and identifying their biomarkers using a diverse range of multi-omics datasets and machine learning algorithms.",
+    "interests": [
+      "Precision medicine",
+      "Type 2 Daibetes",
+      "Deep learning",
+      "Multi-omics integration"
+    ],
+    "educations": [
+      {
+        "degree": "BSc in software engineering",
+        "school": "Zhejiang University of Technolodgy",
+        "duration": "2019-2023"
+      }
+    ],
+    "works": []
+  },
+  {
+    "peopleID": "23212030009",
+    "role": "Master Student",
+    "name": "Leqing Sang",
+    "title": "MSc Candidate (2023-)",
+    "email": "23212030009@m.fudan.edu.cn",
+    "institution": "Fudan University",
+    "college": "Human Phenome Institue",
+    "avatar": "LeqingSang.webp",
+    "intro": "My research interests focus on developing bioinformatics tools for precision oncology, including the interpretation of the oncogenicity and clinical significance of mutations and personalized medication.",
+    "interests": [
+      "Precision oncology",
+      "Variant interpretation",
+      "Personalized medication",
+      "Bioinformatics tools"
+    ],
+    "educations": [
+      {
+        "degree": "BSc in software engineering",
+        "school": "Shandong Jianzhu University",
+        "duration": "2019-2023"
+      }
+    ],
+    "works": []
+  },
+  {
+    "peopleID": "/",
+    "role": "Master Student",
+    "name": "Tian Tang",
+    "title": "MSc Candidate (2024-)",
+    "email": "nan",
+    "institution": "Fudan University",
+    "college": "Human Phenome Institue",
+    "avatar": "TianTang.webp",
+    "intro": "",
+    "interests": [],
+    "educations": [],
+    "works": []
+  }
+]

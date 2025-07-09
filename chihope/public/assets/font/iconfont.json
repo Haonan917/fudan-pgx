@@ -1,0 +1,170 @@
+{
+  "id": "4562861",
+  "name": "chiglitazar-web",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1546324",
+      "name": "database",
+      "font_class": "database",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "5589037",
+      "name": "target",
+      "font_class": "target",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "9223527",
+      "name": "link",
+      "font_class": "link",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6151033",
+      "name": "chart-area",
+      "font_class": "chart-area",
+      "unicode": "e78f",
+      "unicode_decimal": 59279
+    },
+    {
+      "icon_id": "10562174",
+      "name": "Pill",
+      "font_class": "Pill",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "7694597",
+      "name": "research",
+      "font_class": "research1",
+      "unicode": "e752",
+      "unicode_decimal": 59218
+    },
+    {
+      "icon_id": "32164050",
+      "name": "Molecular Biology",
+      "font_class": "a-MolecularBiology",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "35893615",
+      "name": "faqs",
+      "font_class": "fankuifaqs",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "5101131",
+      "name": "people-group",
+      "font_class": "people-group",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "6151034",
+      "name": "chart-line",
+      "font_class": "chart-line",
+      "unicode": "e790",
+      "unicode_decimal": 59280
+    },
+    {
+      "icon_id": "6161882",
+      "name": "排队 ",
+      "font_class": "paidui",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "6242388",
+      "name": "team",
+      "font_class": "team",
+      "unicode": "e7c7",
+      "unicode_decimal": 59335
+    },
+    {
+      "icon_id": "6826628",
+      "name": "客户分群",
+      "font_class": "kehufenqun",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "7240028",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e770",
+      "unicode_decimal": 59248
+    },
+    {
+      "icon_id": "7259022",
+      "name": "about",
+      "font_class": "about",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "8995232",
+      "name": "排队",
+      "font_class": "paidui1",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "18431221",
+      "name": "Cohort（伙伴）",
+      "font_class": "Cohorthuoban",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "33415142",
+      "name": "people-group",
+      "font_class": "people-group1",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "10562175",
+      "name": "Pill, drug",
+      "font_class": "Pilldrug",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "12060241",
+      "name": "safari",
+      "font_class": "safari",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "22746236",
+      "name": "firefox",
+      "font_class": "firefox",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "28480624",
+      "name": "CDA_chrome",
+      "font_class": "CDA_chrome-01",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "37056291",
+      "name": "Edge",
+      "font_class": "Edge",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    }
+  ]
+}

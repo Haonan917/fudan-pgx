@@ -1,0 +1,255 @@
+﻿"ID","Name","HMDB ID","KEGG ID","Class","Class2"
+MP0149,2-Phenylglycine,HMDB0002210,,Amino Acids,Amino Acids
+MP0156,5-Aminolevulinic acid,HMDB0001149,C00430,Amino Acids,Amino Acids
+MP0026,Alpha-N-Phenylacetyl-L-Glutamine,HMDB0006344,C04148,Amino Acids,Amino Acids
+MP0159,Aminoadipic acid,HMDB0000510,C00956,Amino Acids,Amino Acids
+MP0160,Aminocaproic acid,HMDB0001901,C02378,Amino Acids,Amino Acids
+MP0029,Beta-Alanine,HMDB0000056,C00099,Amino Acids,Amino Acids
+MP0038,Citrulline,HMDB0000904,C00327,Amino Acids,Amino Acids
+MP0039,Creatine [MS],HMDB0000064,C00300,Amino Acids,Amino Acids
+MS009,Creatine [NMR Small],HMDB0000064,C00300,Amino Acids,Amino Acids
+MP0050,Dimethylglycine,HMDB0000092,C01026,Amino Acids,Amino Acids
+MP0064,Glycine [MS],HMDB0000123,C00037,Amino Acids,Amino Acids
+MS010,Glycine [NMR Small],HMDB0000123,C00037,Amino Acids,Amino Acids
+MP0069,Glycylproline,HMDB0000721,,Amino Acids,Amino Acids
+MP0070,Guanidoacetic acid,HMDB0000128,C00581,Amino Acids,Amino Acids
+MP0073,Hippuric acid,HMDB0000714,C01586,Amino Acids,Amino Acids
+MP0082,Ketoleucine,HMDB0000695,C00233,Amino Acids,Amino Acids
+MP0083,L-Alanine [MS],HMDB0000161,C00041,Amino Acids,Amino Acids
+MS023,L-Alanine [NMR Small],HMDB0000161,C00041,Amino Acids,Amino Acids
+MP0084,L-Alpha-Aminobutyric acid,HMDB0000452,C02356,Amino Acids,Amino Acids
+MP0175,L-Arginine,HMDB0000517,C00062,Amino Acids,Amino Acids
+MP0085,L-Asparagine,HMDB0000168,C00152,Amino Acids,Amino Acids
+MP0086,L-Aspartic acid,HMDB0000191,C00049,Amino Acids,Amino Acids
+MP0087,L-Glutamic acid [MS],HMDB0000148,C00025,Amino Acids,Amino Acids
+MS015,L-Glutamic acid [NMR Small],HMDB0000148,C00025,Amino Acids,Amino Acids
+MP0088,L-Glutamine [MS],HMDB0000641,C00064,Amino Acids,Amino Acids
+MS013,L-Glutamine [NMR Small],HMDB0000641,C00064,Amino Acids,Amino Acids
+MP0089,L-Histidine [MS],HMDB0000177,C00135,Amino Acids,Amino Acids
+MS002,L-Histidine [NMR Small],HMDB0000177,C00135,Amino Acids,Amino Acids
+MP0090,L-Homocitrulline,HMDB0000679,C02427,Amino Acids,Amino Acids
+MP0091,L-Homoserine,HMDB0000719,C00263,Amino Acids,Amino Acids
+MP0176,L-Isoleucine [MS],HMDB0000172,C00407,Amino Acids,Amino Acids
+MS027,L-Isoleucine [NMR Small],HMDB0000172,C00407,Amino Acids,Amino Acids
+MP0093,L-Leucine [MS],HMDB0000687,C00123,Amino Acids,Amino Acids
+MS028,L-Leucine [NMR Small],HMDB0000687,C00123,Amino Acids,Amino Acids
+MP0094,L-Lysine [MS],HMDB0000182,C00047,Amino Acids,Amino Acids
+MS021,L-Lysine [NMR Small],HMDB0000182,C00047,Amino Acids,Amino Acids
+MP0096,L-Methionine,HMDB0000696,C00073,Amino Acids,Amino Acids
+MP0097,L-Pipecolic acid,HMDB0000716,C00408,Amino Acids,Amino Acids
+MP0098,L-Proline,HMDB0000162,C00148,Amino Acids,Amino Acids
+MP0099,L-Serine,HMDB0000187,C00065,Amino Acids,Amino Acids
+MP0100,L-Threonine,HMDB0000167,C00188,Amino Acids,Amino Acids
+MP0101,L-Tryptophan,HMDB0000929,C00078,Amino Acids,Amino Acids
+MP0102,L-Tyrosine [MS],HMDB0000158,C00082,Amino Acids,Amino Acids
+MS004,L-Tyrosine [NMR Small],HMDB0000158,C00082,Amino Acids,Amino Acids
+MP0103,L-Valine [MS],HMDB0000883,C00183,Amino Acids,Amino Acids
+MS026,L-Valine [NMR Small],HMDB0000883,C00183,Amino Acids,Amino Acids
+MP0109,Methylcysteine,HMDB0002108,,Amino Acids,Amino Acids
+MP0185,N-Acetylglutamine,HMDB0006029,,Amino Acids,Amino Acids
+MP0019,N-Acetylglycine,HMDB0000532,,Amino Acids,Amino Acids
+MP0118,N-Acetyl-L-aspartic acid,HMDB0000812,C01042,Amino Acids,Amino Acids
+MP0120,N-Acetylserine,HMDB0002931,,Amino Acids,Amino Acids
+MP0126,Ornithine,HMDB0000214,C00077,Amino Acids,Amino Acids
+MP0135,Pyroglutamic acid,HMDB0000267,C01879,Amino Acids,Amino Acids
+MP0137,Sarcosine,HMDB0000271,C00213,Amino Acids,Amino Acids
+MP0004,Selenomethionine,HMDB0003966,,Amino Acids,Amino Acids
+MP0151,"3,4-Dihydroxymandelic acid",HMDB0001866,C05580,Benzenoids,Benzenoids
+MP0155,4-Hydroxybenzoic acid,HMDB0000500,C00156,Benzenoids,Benzenoids
+MP0017,4-Hydroxyphenylpyruvic acid,HMDB0000707,C01179,Benzenoids,Benzenoids
+MP0074,Homovanillic acid,HMDB0000118,C05582,Benzenoids,Benzenoids
+MP0180,m-Aminobenzoic acid,HMDB0001891,,Benzenoids,Benzenoids
+MP0184,Mandelic acid,HMDB0000703,C01984,Benzenoids,Benzenoids
+MP0187,Ortho-Hydroxyphenylacetic acid,HMDB0000669,C05852,Benzenoids,Benzenoids
+MP0131,Phenylacetic acid,HMDB0000209,C07086,Benzenoids,Benzenoids
+MP0195,Phthalic acid,HMDB0002107,C01606,Benzenoids,Benzenoids
+MP0189,p-Hydroxymandelic acid,HMDB0000822,C11527,Benzenoids,Benzenoids
+MP0190,p-Hydroxyphenylacetic acid,HMDB0000020,C00642,Benzenoids,Benzenoids
+MS030,Bile acids,,,Bile Acids,Bile Acids
+MP0034,Chenodeoxycholic acid,HMDB0000518,C02528,Bile Acids,Bile Acids
+MP0035,Cholic acid,HMDB0000619,C00695,Bile Acids,Bile Acids
+MP0049,Deoxycholic acid,HMDB0000626,C04483,Bile Acids,Bile Acids
+MP0065,Glycochenodeoxycholic acid,HMDB0000637,C05466,Bile Acids,Bile Acids
+MP0066,Glycocholic acid,HMDB0000138,C01921,Bile Acids,Bile Acids
+MP0067,Glycodeoxycholic acid,HMDB0000631,C05464,Bile Acids,Bile Acids
+MP0168,Glycolithocholic acid,HMDB0000698,C15557,Bile Acids,Bile Acids
+MP0059,Glycolithocholic acid-3-sulfate,HMDB0002639,,Bile Acids,Bile Acids
+MP0068,Glycoursodeoxycholic acid,HMDB0000708,,Bile Acids,Bile Acids
+MP0170,Hyodeoxycholic acid,HMDB0000733,,Bile Acids,Bile Acids
+MP0030,Isohyodeoxycholic acid,HMDB0000664,,Bile Acids,Bile Acids
+MP0179,Lithocholic acid,HMDB0000761,C03990,Bile Acids,Bile Acids
+MP0113,Murocholic acid,HMDB0000811,,Bile Acids,Bile Acids
+MP0141,Taurochenodeoxycholic acid,HMDB0000951,C05465,Bile Acids,Bile Acids
+MP0142,Taurocholic acid,HMDB0000036,C05122,Bile Acids,Bile Acids
+MP0203,Taurodeoxycholic acid,HMDB0000896,C05463,Bile Acids,Bile Acids
+MP0194,5-Phosphoribosyl Diphosphate,HMDB0000280,C00119,Carbohydrates,Carbohydrates
+ML003,C=CCH2C=C [NMR Large],,,Carbohydrates,Carbohydrates
+MS011,C=CCH2C=C [NMR Small],,,Carbohydrates,Carbohydrates
+ML005,CH2C=C [NMR Large],,,Carbohydrates,Carbohydrates
+MS019,CH2C=C [NMR Small],,,Carbohydrates,Carbohydrates
+MS022,CH2CH2CO,,,Carbohydrates,Carbohydrates
+ML006,CH2CH2COO,,,Carbohydrates,Carbohydrates
+ML004,CH2COO [NMR Large],,,Carbohydrates,Carbohydrates
+MS017,CH2COO [NMR Small],,,Carbohydrates,Carbohydrates
+MP0041,D-Fructose,HMDB0000660,C00795,Carbohydrates,Carbohydrates
+MP0042,D-Gluconolactone,HMDB0000150,C00198,Carbohydrates,Carbohydrates
+MP0043,D-Glucose [MS],HMDB0000122,C00031,Carbohydrates,Carbohydrates
+MS006,D-Glucose [NMR Small],HMDB0000122,C00031,Carbohydrates,Carbohydrates
+MP0044,D-Maltose/Alpha-Lactose,HMDB0000163/HMDB0000186,,Carbohydrates,Carbohydrates
+MP0045,D-Xylose,HMDB0000098,C00181,Carbohydrates,Carbohydrates
+MP0046,D-Xylulose,HMDB0001644,,Carbohydrates,Carbohydrates
+MP0166,"Fructose-1,6-bisphosphate",HMDB0001058,C00354,Carbohydrates,Carbohydrates
+MP0167,Glucaric acid,HMDB0000663,C00818,Carbohydrates,Carbohydrates
+MP0177,Lactulose,HMDB0000740,C07064,Carbohydrates,Carbohydrates
+MP0108,Maltotriose,HMDB0001262,C01835,Carbohydrates,Carbohydrates
+MP0119,N-Acetylneuraminic acid,HMDB0000230,C19910,Carbohydrates,Carbohydrates
+MP0199,Rhamnose,HMDB0000849,C00507,Carbohydrates,Carbohydrates
+MP0140,Tartaric acid,HMDB0000956,C00898,Carbohydrates,Carbohydrates
+MP0143,Threonic acid,HMDB0000943,C01620,Carbohydrates,Carbohydrates
+MP0204,Trehalose,HMDB0000975,C01083,Carbohydrates,Carbohydrates
+MP0150,2-Methylbutyroylcarnitine,HMDB0000378,,Carnitines,Carnitines
+MP0154,3-Hydroxybutyrylcarnitine,HMDB0062735,,Carnitines,Carnitines
+MP0016,3-Hydroxylisovalerylcarnitine,HMDB0062555,,Carnitines,Carnitines
+MP0021,Adipoylcarnitine,HMDB0061677,,Carnitines,Carnitines
+MP0033,Carnitine,HMDB0000062,C00318,Carnitines,Carnitines
+MP0048,Decanoylcarnitine C10,HMDB0000651,,Carnitines,Carnitines
+MP0062,Glutarylcarnitine,HMDB0013130,,Carnitines,Carnitines
+MP0072,Hexanylcarnitine,HMDB0000705,,Carnitines,Carnitines
+MP0174,Isovelarylcarnitine,HMDB0000688,,Carnitines,Carnitines
+MP0104,L-Acetylcarnitine,HMDB0000201,,Carnitines,Carnitines
+MP0178,Lauroylcarnitine,HMDB0002250,,Carnitines,Carnitines
+MP0107,Linoleylcarnitine,HMDB0006469,,Carnitines,Carnitines
+MP0183,Malonylcarnitine,HMDB0002095,,Carnitines,Carnitines
+MP0112,Methylmalonylcarnitine,HMDB0013133,,Carnitines,Carnitines
+MP0117,Myristoylcarnitine,HMDB0005066,,Carnitines,Carnitines
+MP0123,Octanoylcarnitine,HMDB0000791,C02838,Carnitines,Carnitines
+MP0125,Oleylcarnitine C18 1,HMDB0005065,,Carnitines,Carnitines
+MP0130,Palmitoylcarnitine,HMDB0000222,C02990,Carnitines,Carnitines
+MP0134,Propionylcarnitine,HMDB0000824,C03017,Carnitines,Carnitines
+MP0138,Stearylcarnitine,HMDB0000848,,Carnitines,Carnitines
+MP0006,10Z-Heptadecenoic acid,HMDB0060038,,Fatty Acids,Fatty Acids
+MP0144,12-Hydroxystearic acid,HMDB0061706,,Fatty Acids,Fatty Acids
+MP0145,"2,2-Dimethyladipic acid",,,Fatty Acids,Fatty Acids
+MP0008,2-Hydroxy-3-methylbutyric acid,HMDB0000407,,Fatty Acids,Fatty Acids
+MP0009,2-Hydroxybutyric acid,HMDB0000008,C05984,Fatty Acids,Fatty Acids
+MP0146,2-Hydroxycaproic acid,HMDB0001624,,Fatty Acids,Fatty Acids
+MP0148,2-Methylvaleric acid,HMDB0031580,,Fatty Acids,Fatty Acids
+MP0012,3-Hydroxybutyric acid,HMDB0000357,C01089,Fatty Acids,Fatty Acids
+MP0013,3-Hydroxyisovaleric acid,HMDB0000754,,Fatty Acids,Fatty Acids
+MP0152,3-Methyladipic acid,HMDB0000555,,Fatty Acids,Fatty Acids
+MP0153,3-Methylpentanoic acid,HMDB0033774,,Fatty Acids,Fatty Acids
+MP0001,5-Dodecenoic acid,HMDB0000529,,Fatty Acids,Fatty Acids
+MP0018,"8,11,14-Eicosatrienoic acid",HMDB0002925,C03242,Fatty Acids,Fatty Acids
+MP0022,Adrenic acid,HMDB0002226,C16527,Fatty Acids,Fatty Acids
+MP0025,Alpha-Linolenic acid,HMDB0001388,C06427,Fatty Acids,Fatty Acids
+MP0027,Arachidonic acid,HMDB0001043,C00219,Fatty Acids,Fatty Acids
+MP0031,Butyric acid,HMDB0000039,C00246,SCFAs,Fatty Acids
+MP0032,Caproic acid,HMDB0000535,C01585,SCFAs,Fatty Acids
+MP0047,Decanoic acid,HMDB0000511,C01571,Fatty Acids,Fatty Acids
+MP0051,DHA,HMDB0002183,C06429,Fatty Acids,Fatty Acids
+MP0054,Dodecanoic acid,HMDB0000638,C02679,Fatty Acids,Fatty Acids
+MP0053,DPA,HMDB0006528,C16513,Fatty Acids,Fatty Acids
+MP0052,DPAn-6,HMDB0001976,,Fatty Acids,Fatty Acids
+MP0055,EPA,HMDB0001999,C06428,Fatty Acids,Fatty Acids
+MP0165,Formic acid [MS],HMDB0000142,C00058,Fatty Acids,Fatty Acids
+MP0058,Gamma-Linolenic acid,HMDB0003073,C06426,Fatty Acids,Fatty Acids
+MP0169,Heptadecanoic acid,HMDB0002259,,Fatty Acids,Fatty Acids
+MP0071,Heptanoic acid,HMDB0000666,C17714,Fatty Acids,Fatty Acids
+MP0173,Isobutyric acid,HMDB0001873,C02632,SCFAs,Fatty Acids
+MP0079,Isocaproic acid,HMDB0000689,,Fatty Acids,Fatty Acids
+MP0081,Isovaleric acid,HMDB0000718,C08262,SCFAs,Fatty Acids
+MP0105,Linoelaidic acid,HMDB0006270,,Fatty Acids,Fatty Acids
+MP0106,Linoleic acid,HMDB0000673,C01595,Fatty Acids,Fatty Acids
+MP0110,Methylglutaric acid,HMDB0000752,,Fatty Acids,Fatty Acids
+MP0111,Methylmalonic acid,HMDB0000202,C02170,Fatty Acids,Fatty Acids
+MP0003,Methylsuccinic acid,HMDB0001844,C08645,Fatty Acids,Fatty Acids
+ML011,MUFA%,,,Fatty Acids,Fatty Acids
+ML016,MUFA/UFA,,,Fatty Acids,Fatty Acids
+MP0114,Myristelaidic acid,HMDB0062248,,Fatty Acids,Fatty Acids
+MP0115,Myristic acid,HMDB0000806,C06424,Fatty Acids,Fatty Acids
+MP0116,Myristoleic acid,HMDB0002000,C08322,Fatty Acids,Fatty Acids
+MP0186,Nonanoic acid,HMDB0000847,C01601,Fatty Acids,Fatty Acids
+MP0122,Octanoic acid,HMDB0000482,C06423,Fatty Acids,Fatty Acids
+MP0124,Oleic acid,HMDB0000207,C00712,Fatty Acids,Fatty Acids
+MP0191,Palmitelaidic acid,HMDB0012328,,Fatty Acids,Fatty Acids
+MP0192,Palmitic acid,HMDB0000220,C00249,Fatty Acids,Fatty Acids
+MP0129,Palmitoleic acid,HMDB0003229,C08362,Fatty Acids,Fatty Acids
+MP0193,Pentadecanoic acid,HMDB0000826,C16537,Fatty Acids,Fatty Acids
+ML010,PUFA%,,,Fatty Acids,Fatty Acids
+ML014,PUFA/MUFA,,,Fatty Acids,Fatty Acids
+ML015,PUFA/SFA,,,Fatty Acids,Fatty Acids
+ML013,PUFA/UFA,,,Fatty Acids,Fatty Acids
+MP0200,Ricinoleic acid,HMDB0034297,C08365,Fatty Acids,Fatty Acids
+MP0201,Sebacic acid,HMDB0000792,C08277,Fatty Acids,Fatty Acids
+ML012,SFA%,,,Fatty Acids,Fatty Acids
+MP0202,Stearic acid,HMDB0000827,C01530,Fatty Acids,Fatty Acids
+MP0205,Tridecanoic acid,HMDB0000910,C17076,Fatty Acids,Fatty Acids
+ML002,Triglycerides [NMR Large],HMDB0005432,,Fatty Acids,Fatty Acids
+MS007,Triglycerides [NMR Small],HMDB0005432,,Fatty Acids,Fatty Acids
+ML009,UFA%,,,Fatty Acids,Fatty Acids
+MP0005,Undecylenic acid,HMDB0033724,C13910,Fatty Acids,Fatty Acids
+MS005,Unsaturated fatty acids,,,Fatty Acids,Fatty Acids
+ML001,Unsaturated fatty acids [NMR Large],,,Fatty Acids,Fatty Acids
+MP0007,2-Furoic acid,HMDB0000617,C01546,Furans,Furans
+MP0161,Anserine,HMDB0000194,C01262,Hybrid Peptides,Hybrid Peptides
+MP0162,Carnosine,HMDB0000033,C00386,Hybrid Peptides,Hybrid Peptides
+MP0014,3-Indolepropionic acid,HMDB0002302,,Indoles,Indoles
+MP0171,Indole-3-methyl acetate,HMDB0029738,,Indoles,Indoles
+MP0078,Indoleacetic acid,HMDB0000197,C00954,Indoles,Indoles
+MP0172,Indoleacrylic acid,HMDB0000734,,Indoles,Indoles
+MP0158,Adenosine Monophosphate,HMDB0000045,C00020,Nucleosides,Nucleosides
+MP0040,2-Hydroxyglutaric acid,HMDB0000606,C01087,Organic Acids,Organic Acids
+MS025,3-Hydroxybutytrate,HMDB0000011,,Organic Acids,Organic Acids
+MP0015,3-Methyl-2-oxovaleric acid,HMDB0000491,C03465,Organic Acids,Organic Acids
+MS020,Acetate,HMDB0000042,,Organic Acids,Organic Acids
+MP0157,Acetoacetic acid [MS],HMDB0000060,C00164,Organic Acids,Organic Acids
+MS016,Acetoacetic acid [NMR Small],HMDB0000060,C00164,Organic Acids,Organic Acids
+MP0020,Adipic acid,HMDB0000448,C06104,Organic Acids,Organic Acids
+MP0023,Alpha-Hydroxyisobutyric acid,HMDB0000729,,Organic Acids,Organic Acids
+MP0024,Alpha-Ketoisovaleric acid,HMDB0000019,C00141,Organic Acids,Organic Acids
+MP0028,Azelaic acid,HMDB0000784,C08261,Organic Acids,Organic Acids
+MP0002,Benzoic acid,HMDB0001870,C00180,Organic Acids,Organic Acids
+MP0036,cis-Aconitic acid,HMDB0000072,C00417,Organic Acids,Organic Acids
+MP0164,Citramalic acid,HMDB0000426,C00815,Organic Acids,Organic Acids
+MP0037,Citric acid [MS],HMDB0000094,C00158,Organic Acids,Organic Acids
+MS012,Citric acid [Small],HMDB0000094,C00158,Organic Acids,Organic Acids
+MP0056,Erythronic acid,HMDB0000613,,Organic Acids,Organic Acids
+MS001,Formic acid [NMR Small],HMDB0000142,C00058,Organic Acids,Organic Acids
+MP0057,Fumaric acid,HMDB0000134,C00122,Organic Acids,Organic Acids
+MP0060,Glutaconic acid,HMDB0000620,C02214,Organic Acids,Organic Acids
+MP0061,Glutaric acid,HMDB0000661,C00489,Organic Acids,Organic Acids
+MP0063,Glyceric acid,HMDB0000139,C00258,Organic Acids,Organic Acids
+MP0077,Hydroxypropionic acid,HMDB0000700,C01013,Organic Acids,Organic Acids
+MP0080,Isocitric acid,HMDB0000193,C00311,Organic Acids,Organic Acids
+MP0092,L-Lactic acid [MS],HMDB0000190,C00256,Organic Acids,Organic Acids
+MS008,L-Lactic acid [NMR Small],HMDB0000190,C00256,Organic Acids,Organic Acids
+MP0095,L-Malic acid,HMDB0000156,C00149,Organic Acids,Organic Acids
+MP0181,Maleic acid,HMDB0000176,C01384,Organic Acids,Organic Acids
+MP0182,Malonic acid,HMDB0000691,C00383,Organic Acids,Organic Acids
+MP0127,Oxalic acid,HMDB0002329,C00209,Organic Acids,Organic Acids
+MP0188,Oxoadipic acid,HMDB0000225,C00322,Organic Acids,Organic Acids
+MP0128,Oxoglutaric acid,HMDB0000208,C00026,Organic Acids,Organic Acids
+MS003,Phenylalanine,HMDB0000159,,Organic Acids,Organic Acids
+MP0133,Phenylpyruvic acid,HMDB0000205,C00166,Organic Acids,Organic Acids
+MP0196,Picolinic acid,HMDB0002243,C10164,Organic Acids,Organic Acids
+MP0197,Pimelic acid,HMDB0000857,C02656,Organic Acids,Organic Acids
+MP0136,Pyruvic acid [MS],HMDB0000243,C00022,Organic Acids,Organic Acids
+MS014,Pyruvic acid [NMR Small],HMDB0000243,C00022,Organic Acids,Organic Acids
+MP0139,Succinic acid,HMDB0000254,C00042,Organic Acids,Organic Acids
+MP0147,2-Hydroxycinnamic acid,HMDB0002641,C01772,Phenylpropanoic Acids,Phenylpropanoic Acids
+MP0010,2-Phenylpropionate,HMDB0011743,,Phenylpropanoic Acids,Phenylpropanoic Acids
+MP0011,3-Hydroxyphenylhydracrylic acid,HMDB0002643,,Phenylpropanoic Acids,Phenylpropanoic Acids
+MP0163,Cinnamic acid,HMDB0000567,C10438,Phenylpropanoic Acids,Phenylpropanoic Acids
+MP0075,Hydrocinnamic acid,HMDB0000764,C05629,Phenylpropanoic Acids,Phenylpropanoic Acids
+MP0076,Hydroxyphenyllactic acid,HMDB0000755,C03672,Phenylpropanoic Acids,Phenylpropanoic Acids
+MP0132,Phenyllactic acid,HMDB0000779,C01479,Phenylpropanoic Acids,Phenylpropanoic Acids
+MP0121,N-Methylnicotinamide,HMDB0003152,,Pyridines,Pyridines
+MP0198,Pyrrole-2-carboxylic acid,HMDB0004230,C05942,Pyrroles,Pyrroles
+MS018,N-acetylated glycoproteins,,,Unknown,Unknown
+ML018,NAGI,,,Unknown,Unknown
+ML019,NAGI/II,,,Unknown,Unknown
+ML017,NAGII,,,Unknown,Unknown
+ML007,R-CH2 [NMR Large],,,Unknown,Unknown
+MS024,R-CH2 [NMR Small],,,Unknown,Unknown
+ML008,R-CH3 [NMR Large],,,Unknown,Unknown
+MS029,R-CH3 [NMR Small],,,Unknown,Unknown

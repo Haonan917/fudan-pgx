@@ -1,0 +1,32 @@
+{
+  "name": "fudanpgx-organization",
+  "version": "1.0.0",
+  "description": "Fudan PGX Organization Website - Dual Project Repository",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install && cd fudanpgx && npm install && cd ../chihope && npm install",
+    "build:all": "cd fudanpgx && npm run build && cd ../chihope && npm run build",
+    "dev:fudanpgx": "cd fudanpgx && npm run serve",
+    "dev:chihope": "cd chihope && npm run serve",
+    "deploy": "npm run build:all && ./deploy.sh"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "workspaces": [
+    "fudanpgx",
+    "chihope"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yjcyxky/fudanpgx.git"
+  },
+  "keywords": [
+    "vue",
+    "pharmacogenomics",
+    "research",
+    "fudan"
+  ],
+  "author": "Fudan PGX Team",
+  "license": "MIT"
+} 

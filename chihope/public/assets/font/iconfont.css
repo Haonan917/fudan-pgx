@@ -1,0 +1,107 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4562861 */
+  src: url('iconfont.woff2?t=1734603739204') format('woff2'),
+       url('iconfont.woff?t=1734603739204') format('woff'),
+       url('iconfont.ttf?t=1734603739204') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-database:before {
+  content: "\e615";
+}
+
+.icon-target:before {
+  content: "\e62e";
+}
+
+.icon-link:before {
+  content: "\e600";
+}
+
+.icon-chart-area:before {
+  content: "\e78f";
+}
+
+.icon-Pill:before {
+  content: "\e690";
+}
+
+.icon-research1:before {
+  content: "\e752";
+}
+
+.icon-a-MolecularBiology:before {
+  content: "\e619";
+}
+
+.icon-fankuifaqs:before {
+  content: "\e601";
+}
+
+.icon-people-group:before {
+  content: "\e634";
+}
+
+.icon-chart-line:before {
+  content: "\e790";
+}
+
+.icon-paidui:before {
+  content: "\e68c";
+}
+
+.icon-team:before {
+  content: "\e7c7";
+}
+
+.icon-kehufenqun:before {
+  content: "\e638";
+}
+
+.icon-home:before {
+  content: "\e770";
+}
+
+.icon-about:before {
+  content: "\e60e";
+}
+
+.icon-paidui1:before {
+  content: "\e618";
+}
+
+.icon-Cohorthuoban:before {
+  content: "\e645";
+}
+
+.icon-people-group1:before {
+  content: "\e639";
+}
+
+.icon-Pilldrug:before {
+  content: "\e691";
+}
+
+.icon-safari:before {
+  content: "\e604";
+}
+
+.icon-firefox:before {
+  content: "\e6a4";
+}
+
+.icon-CDA_chrome-01:before {
+  content: "\e649";
+}
+
+.icon-Edge:before {
+  content: "\e687";
+}
+
