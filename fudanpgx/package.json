@@ -8,7 +8,7 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist --repo https://github.com/yjcyxky/fudan-pgx.git"
+    "deploy": "gh-pages -d dist --repo https://github.com/Haonan917/fudan-pgx.git"
   },
   "dependencies": {
     "@amap/amap-jsapi-loader": "^1.0.1",

@@ -12,7 +12,7 @@ Both projects are deployed to GitHub Pages with the following URL structure:
 - `fudan-pgx.org/fudanpgx` → fudanpgx project
 - `fudan-pgx.org/chihope` → chihope project
 
-Repository: https://github.com/yjcyxky/fudan-pgx
+Repository: https://github.com/Haonan917/fudan-pgx
 
 ## Development
 
